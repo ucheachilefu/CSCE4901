@@ -1,25 +1,21 @@
-# Node.js dependencies
+# Node.js deps
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Environment variables
+# Env / secrets
 .env
 
-# Logs
-logs
-*.log
-
-# Build output
+# Build & coverage
 dist/
 coverage/
 tmp/
 temp/
 
-# OS-specific files
+# OS junk
 .DS_Store
 
-# IDE/editor files
+# IDE
 .vscode/
 .idea/
